@@ -17,17 +17,11 @@ def main():
     load_dotenv()
     assistant = Assistant()
 
-    list = [1, 2, 3, 4]
-    x = f"Menarik {list}"
-
-
     name = input("Set assistant name: ")
     assistant.setName(name)
 
     while True:
         display_menu()
-
-        print(x)
 
         choice = input("Select a menu... (example: 1)")
 
