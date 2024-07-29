@@ -6,9 +6,7 @@
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Directory Structure](#directory-structure)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
@@ -29,8 +27,8 @@ To run this virtual assistant, you need to have Python installed on your system.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your_username/virtual-assistant.git
-    cd virtual-assistant
+    git clone https://github.com/nenecchuu/mlai-py-cs
+    cd mlai-py-cs
     ```
 
 2. Install the required dependencies:
